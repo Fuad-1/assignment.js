@@ -1,7 +1,7 @@
-// //repository link: github link
+// https://github.com/Fuad-1/assignment.js
 
 
-//1st Part
+
 function kilometerToMeter(kiloMeter) {
     if (kiloMeter >= 0) {
         var meter = kiloMeter * 1000;
